@@ -1,0 +1,15 @@
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\bin\Debug\net5.0\Contable.Servicios.deps.json
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\bin\Debug\net5.0\Contable.Servicios.dll
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\bin\Debug\net5.0\ref\Contable.Servicios.dll
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\bin\Debug\net5.0\Contable.Servicios.pdb
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\obj\Debug\net5.0\Contable.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\obj\Debug\net5.0\Contable.Servicios.AssemblyInfoInputs.cache
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\obj\Debug\net5.0\Contable.Servicios.AssemblyInfo.cs
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\obj\Debug\net5.0\Contable.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\obj\Debug\net5.0\Contable.Servicios.dll
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\obj\Debug\net5.0\ref\Contable.Servicios.dll
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\obj\Debug\net5.0\Contable.Servicios.pdb
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\obj\Debug\net5.0\Contable.Servicios.csproj.AssemblyReference.cache
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\bin\Debug\net5.0\Contable.DataAccess.dll
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\bin\Debug\net5.0\Contable.DataAccess.pdb
+C:\Users\Einer Santana R\source\repos\Contable\Contable.Servicios\obj\Debug\net5.0\Contable.Servicios.csproj.CopyComplete

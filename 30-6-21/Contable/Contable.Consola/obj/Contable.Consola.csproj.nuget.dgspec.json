@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Consola\\Contable.Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Consola\\Contable.Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Consola\\Contable.Consola.csproj",
+        "projectName": "Contable.Consola",
+        "projectPath": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Consola\\Contable.Consola.csproj",
+        "packagesPath": "C:\\Users\\Einer Santana R\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Einer Santana R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Servicios\\Contable.Servicios.csproj": {
+                "projectPath": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Servicios\\Contable.Servicios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.DataAccess\\Contable.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.DataAccess\\Contable.DataAccess.csproj",
+        "projectName": "Contable.DataAccess",
+        "projectPath": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.DataAccess\\Contable.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Einer Santana R\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Einer Santana R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Servicios\\Contable.Servicios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Servicios\\Contable.Servicios.csproj",
+        "projectName": "Contable.Servicios",
+        "projectPath": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Servicios\\Contable.Servicios.csproj",
+        "packagesPath": "C:\\Users\\Einer Santana R\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.Servicios\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Einer Santana R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.DataAccess\\Contable.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Einer Santana R\\source\\repos\\Contable\\Contable.DataAccess\\Contable.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

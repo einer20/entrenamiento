@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<form method="post" action="~/home/registrarPaciente">
+
+    <div class="row">
+        <div class="col-6">
+            <label>
+                NOMBRE PACIENTE
+            </label>
+            <input type="text" class="form-control" name="Nombre" />
+        </div>
+        <div class="col-6">
+            <label>
+                APELLIDO PACIENTE
+            </label>
+            <input type="text" class="form-control" name="apellido" />
+        </div>
+        <div class="col-6">
+            <label>
+                DIRECCION PACIENTE
+            </label>
+            <input type="text" class="form-control" name="direccion" />
+        </div>
+        <div class="col-12">
+            <br />
+            <button class="btn btn-primary" type="submit">
+                REGISTRAR PACIENTE
+            </button>
+        </div>
+    </div>
+
+</form>

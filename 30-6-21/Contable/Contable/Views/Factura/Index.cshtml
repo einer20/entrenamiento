@@ -1,0 +1,54 @@
+﻿@model List<Contable.DataAccess.Modelos.Factura>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Lista de Facturas</h1>
+
+<a href="~/factura/crear" class="btn btn-primary">
+    CREAR FACTURA
+</a>
+<br />
+<br />
+<form action="~/factura/index" method="get">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Numero Factura</th>
+                <th>Fecha Factura</th>
+                <th>Rnc</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tr>
+            <td colspan="2">
+                <input class="form-control" value="@Context.Request.Query["nfc"]" name="nfc" placeholder="NFC" />
+            </td>
+            <td colspan="2">
+                <input class="form-control" value="@Context.Request.Query["rnc"]" name="rnc" placeholder="RNC" />
+            </td>
+            <td>
+                <button type="submit" class="btn btn-secondary">BUSCAR</button>
+            </td>
+        </tr>
+        @foreach (var factura in Model)
+        {
+            <tbody>
+                <tr>
+                    <td>@factura.Id</td>
+                    <td>@factura.NumeroFactura</td>
+                    <td>@factura.Fecha</td>
+                    <td>@factura.RNC</td>
+                    <td>
+                        <a href="" class="btn btn-danger">ANULAR</a>
+                    </td>
+                </tr>
+            </tbody>
+
+        }
+    </table>
+
+</form>

@@ -1,0 +1,12 @@
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\bin\Debug\net5.0\Contable.DataAccess.deps.json
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\bin\Debug\net5.0\Contable.DataAccess.dll
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\bin\Debug\net5.0\ref\Contable.DataAccess.dll
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\bin\Debug\net5.0\Contable.DataAccess.pdb
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\obj\Debug\net5.0\Contable.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\obj\Debug\net5.0\Contable.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\obj\Debug\net5.0\Contable.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\obj\Debug\net5.0\Contable.DataAccess.AssemblyInfo.cs
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\obj\Debug\net5.0\Contable.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\obj\Debug\net5.0\Contable.DataAccess.dll
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\obj\Debug\net5.0\ref\Contable.DataAccess.dll
+C:\Users\Einer Santana R\source\repos\Contable\Contable.DataAccess\obj\Debug\net5.0\Contable.DataAccess.pdb
